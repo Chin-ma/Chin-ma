@@ -18,6 +18,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chin-ma&show_icons=true&locale=en" alt="Chin-ma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chin-ma&" alt="Chin-ma" /></p>
+
+[![An image of @chinma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chinma)](https://holopin.io/@chinma)
 <!--
 **Chin-ma/Chin-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
