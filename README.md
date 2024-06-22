@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Phanasgaonkar</h1>
 <h3 align="center">Student | Python Programmer | Web Developer | Technology Enthusiast | Problem Solving Skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaniyash&label=Profile%20views&color=0e75b6&style=flat" alt="sahaniyash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaniyash&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay" /> </p>
 
 - 📫 You can reach me via email at **chinmay2003cp@gmail.com**
 
