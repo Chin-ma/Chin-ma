@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chin-ma&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Chin-ma&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chin-ma&theme=radical" alt="GitHub Streak Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Chin-ma&theme=radical" alt="GitHub Streak Stats" height="150" />
 </div>
 
 ---
