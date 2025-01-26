@@ -29,7 +29,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,html,js,mysql,php,python,react" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,prometheus,grafana,git,js,php,python,react,nextjs,mysql,mongodb" alt="Languages and Tools" />
 </p>
 
 ---
